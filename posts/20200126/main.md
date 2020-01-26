@@ -14,5 +14,6 @@ API設計と開発を主な仕事としております。
 ![プロフィール画像](./IMG_0151.JPG)
 
 ## 関連リンク
-[開発ブログ](https://shiro-secret-base.com)
-[Qiita](https://qiita.com/phantom1793)
+[開発ブログ(https://shiro-secret-base.com)](https://shiro-secret-base.com)
+
+[Qiita(https://qiita.com/phantom1793)](https://qiita.com/phantom1793)
