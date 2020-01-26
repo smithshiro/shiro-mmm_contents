@@ -11,7 +11,7 @@ Copyright: (C) 2020 shiro
 API設計と開発を主な仕事としております。
 
 ## プロフィール画像
-![プロフィール画像](./profile.jpg)
+![プロフィール画像](./IMG_0151.JPG)
 
 ## 関連リンク
 [開発ブログ](https://shiro-secret-base.com)
